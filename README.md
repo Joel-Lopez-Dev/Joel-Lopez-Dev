@@ -31,22 +31,19 @@
 
 ## <p align="center"> ✨ Some stats ✨ </p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Joel-Lopez-Dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=Joel-Lopez-Dev&show_icons=true&theme=react&rank_icon=github&v=1" alt="GitHub Stats" style="margin-bottom: 15px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Joel-Lopez-Dev&show_icons=true&theme=react&rank_icon=github" alt="Joel's GitHub Stats" />
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Joel-Lopez-Dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Lopez-Dev&langs_count=6&theme=react&layout=donut-vertical&v=1" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Lopez-Dev&langs_count=6&theme=react&layout=donut-vertical" alt="Joel's Top Languages" />
   </a>
-</div>
+</p>
 
 <br>
-<p align="center">
-  <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="100"><img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
 
 ## <p align="center"> Current technologies that I'm learning 👾 </p>
 
